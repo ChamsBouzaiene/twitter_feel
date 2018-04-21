@@ -16,21 +16,21 @@ I havr built two versions of this script : tw_feel_wco.py and tw_feel.py
 
 You will need this following libraries :
 
-Tweepy : pip install tweepy
+Tweepy :    pip install tweepy
 
-Textblob : pip install textblob
+Textblob :  pip install textblob
 
-Pandas : pip install pandas
+Pandas :    pip install pandas
 
-OpenCV : pip install opencv
+OpenCV :    pip install opencv
 
 Only if u want to run tw_feel.py 
 
-Colorama : pip install tweepy
+Colorama :  pip install tweepy
 
 
 ### Usage
 
-python tw_feel.py
+    python tw_feel.py
 
-python tw_feel_wco.py
+    python tw_feel_wco.py
