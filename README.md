@@ -41,5 +41,11 @@ Colorama :  pip install tweepy
 ### Sample
 i use CSVpad for viewing csv file :
 
+![alt tag](https://github.com/alchemist107/twitter_feel/blob/master/csv.jpg)
+
+html file :
+
+![alt tag](https://github.com/alchemist107/twitter_feel/blob/master/html.jpg)
+
 
 
