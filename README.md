@@ -36,3 +36,10 @@ Colorama :  pip install tweepy
     python tw_feel_wco.py
     
  the script will ask for how many tweets u want to grab the limit is 100 the u chose your topic and lastly u chose the language   en=english,ar:arabic,fr=french the script will translate the tweets using the textblob translate(to='') function and he will give u a detailed csv file and a html file with all the data 
+ 
+
+### Sample
+i use CSVpad for viewing csv file :
+
+
+
