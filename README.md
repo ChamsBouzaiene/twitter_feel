@@ -4,7 +4,7 @@ The twitter feel script takes recent tweets on a chosen topic and calucluale how
 
 ## Getting Started
 
-I havr built two versions of this script : tw_feel_wco.py and tw_feel.py
+I have built two versions of this script : tw_feel_wco.py and tw_feel.py
 
     tw_feel.py: this version uses colorama library for adding color to the text
 
@@ -35,7 +35,7 @@ Colorama :  pip install tweepy
 
     python tw_feel_wco.py
     
- the script will ask for how many tweets u want to grab the limit is 100 the u chose your topic and lastly u chose the language   en=english,ar:arabic,fr=french the script will translate the tweets using the textblob translate(to='') function and he will give u a detailed csv file and a html file with all the data 
+ the script will ask for how many tweets u want to grab. the limit is 100, then u choose your topic and lastly u choose the language   en=english,ar:arabic,fr=french the script will translate the tweets using the textblob translate(to='') function and it will give u a detailed csv file and a html file with all the data 
  
 
 ### Sample
