@@ -1,6 +1,6 @@
 # Twitter Feel
 
-The twitter feel script takes recent tweets on a chosen topic and calucluale how people feel about that specific subject using textblob library generate a csv file with all the data of the tweet , a table containing sentiment data and location in a html file 
+The twitter-feel script takes recent tweets on a chosen topic and calculates how people feel about that specific subject using textblob library that generate a csv file with all the data of the tweet , a table containing sentiment data and location in a html file 
 
 ## Getting Started
 
